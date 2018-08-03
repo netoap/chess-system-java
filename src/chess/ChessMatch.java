@@ -5,11 +5,7 @@ import boardgame.Position;
 import chess.pieces.King;
 import chess.pieces.Rook;
 
-/**
- * Partida de Xadrez 
- * @author Alexander Neto
- *
- */
+
 public class ChessMatch {
 	
 	private Board board;
